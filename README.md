@@ -8,8 +8,8 @@ I'm a QA Engineer passionate about ensuring the quality and reliability of softw
 🚀 Skills & Technologies - \*\*Manual Testing:\*\* Functional, Regression, Usability, and Exploratory Testing. - \*\*Programming Languages:\*\* Python. - \*\*Tools & Frameworks:\*\* JIRA, Postman. - \*\*Continuous Integration/Continuous Deployment (CI/CD):\*\* GitHub Actions, GitLab CI. - \*\*Version Control:\*\* GitHub. - \*\*Bug Tracking & Test Management:\*\* JIRA. - \*\*Other:\*\* SQL, REST API.
 
 * 🌍  I'm based in Madrid
-* ✉️  You can contact me at [paolaholguinmercado@gmail.com, www.linkedin.com/in/paoholguin](mailto:paolaholguinmercado@gmail.com, www.linkedin.com/in/paoholguin)
-* 🧠  I'm learning Q.A. Engineer in Triple Ten
+* ✉️  You can contact me at [paolaholguinmercado@gmail.com, https://www.linkedin.com/in/paolaholguin-qaengineer/]
+* 🧠  I'm Q.A. Engineer from Triple Ten
 * 🤝  I'm open to collaborating on I am always open to collaborating on projects related to testing, automation, and software quality assurance. If you have any exciting projects or ideas, feel free to reach out!
 * ⚡  Thank you for visiting my GitHub profile! 😊
 
